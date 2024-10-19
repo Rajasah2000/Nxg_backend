@@ -8,7 +8,7 @@ const port = 5000;
 // Enable CORS for all routes
 app.use(cors());
 
-//  Middleware for passing JSON
+//  Middleware for passing JSON jhjkj kj kjkj
 app.use(express.json());
 
 app.use("/api", authRoutes);
